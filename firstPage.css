@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+	color: yellow;
+}
+
+header {
+	display: grid;
+	place-items: center;
+}
+
+header img{
+	width: 100px;
+}
+
+nav a {
+	color: wheat;
+	margin-right: 60px;
+}
